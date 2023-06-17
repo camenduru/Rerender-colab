@@ -9,6 +9,11 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Rerender-colab/blob/main/Rerender_colab.ipynb) | Rerender_colab
 
+## Tutorial
+Little bug 🐜 First, move the `Keyframe frequency (K)`, and then set the `Number of keyframes`
+
+![image](https://github.com/camenduru/Rerender-colab/assets/54370274/7db8af5c-0697-49ce-8ef7-0f4c8d4f0a5d)
+
 ## Main Repo
 Not published yet
 
