@@ -28,3 +28,4 @@ This code is for research purpose and non-commercial use only.
 
 ## Output
 https://github.com/camenduru/Rerender-colab/assets/54370274/8d5a51a7-ed1e-44e3-afb4-cccea2055ce5
+https://github.com/camenduru/Rerender-colab/assets/54370274/62192869-57d5-4470-9315-764c1cd96bd2
