@@ -15,7 +15,7 @@ Little bug 🐜 First, move the `Keyframe frequency (K)`, and then set the `Numb
 ![image](https://github.com/camenduru/Rerender-colab/assets/54370274/7db8af5c-0697-49ce-8ef7-0f4c8d4f0a5d)
 
 ## Main Repo
-Not published yet
+Not published yet <br />
 https://huggingface.co/spaces/Anonymous-sub/Rerender/tree/main
 
 ## Page
