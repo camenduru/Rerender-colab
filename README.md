@@ -8,6 +8,7 @@
 
 | Colab | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamyang1991/Rerender_A_Video/blob/main/inference_playground.ipynb) | Rerender_colab (Author Colab)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Rerender-colab/blob/main/Rerender_colab.ipynb) | Rerender_colab
 
 ## Tutorial
@@ -16,14 +17,14 @@ Little bug 🐜 First, move the `Keyframe frequency (K)`, and then set the `Numb
 ![image](https://github.com/camenduru/Rerender-colab/assets/54370274/7db8af5c-0697-49ce-8ef7-0f4c8d4f0a5d)
 
 ## Main Repo
-Not published yet <br />
+https://github.com/williamyang1991/Rerender_A_Video <br />
 https://huggingface.co/spaces/Anonymous-sub/Rerender/tree/main
 
 ## Page
-Not published yet
+https://www.mmlab-ntu.com/project/rerender/
 
 ## Paper
-Not published yet
+https://arxiv.org/abs/2306.07954
 
 ## License
 This code is for research purpose and non-commercial use only.
