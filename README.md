@@ -8,7 +8,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamyang1991/Rerender_A_Video/blob/main/inference_playground.ipynb) | Rerender_colab (Author Colab)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Rerender_A_Video/blob/colab/inference_playground.ipynb) | Rerender_colab (Author Colab)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Rerender-colab/blob/main/Rerender_colab.ipynb) | Rerender_colab
 
 ## Main Repo
